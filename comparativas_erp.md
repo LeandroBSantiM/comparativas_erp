@@ -24,4 +24,4 @@ SAP Business One: Robusto, más caro, pensado para empresas medianas-grandes con
 La Tabla se complica aquí y no pude ponerla
 
 
-La Tabla, el apoyo visual (7 capturas de pantalla), y los enlaces de las fuentes consultadas se encuentran aquí:  ![Recursos del .md](./ERPs_fotos_fuentes_tabla.pdf)
+La Tabla, el apoyo visual (7 capturas de pantalla), y los enlaces de las fuentes consultadas se encuentran aquí:  ![Recursos del .md](./asset/ERPs_fotos_fuentes_tabla.pdf)
