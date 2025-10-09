@@ -21,4 +21,7 @@ SAP Business One: Robusto, más caro, pensado para empresas medianas-grandes con
 - SAP B1 : Negocios con procesos más complejos de inventario y contabilidad, con presupuesto mayor.
 
 
-La Tabla, el apoyo visual (7 capturas de pantalla), y los enlaces de las fuentes se encuentran aquí
+La Tabla se complica aquí y no pude ponerla
+
+
+La Tabla, el apoyo visual (7 capturas de pantalla), y los enlaces de las fuentes consultadas se encuentran aquí:  ![Recursos del .md](./ERPs_fotos_fuentes_tabla.pdf)
