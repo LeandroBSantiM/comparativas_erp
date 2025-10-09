@@ -1,4 +1,4 @@
-1. Descripción de la práctica
+1. Descripción de la práctica:
 El objetivo de esta práctica es comparar tres ERP actuales, en este caso Odoo, Microsoft Dynamics 365 Business Central y SAP Business One, para valorar cuál se adapta mejor a una GreenGym. La idea es entender para qué sirven estos sistemas y cómo pueden ayudar a centralizar todas las gestiones del negocio
 
 2. Estructura del repositorio
