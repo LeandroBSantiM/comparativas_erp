@@ -10,8 +10,8 @@ Comparativa de ERP para GreenGym
    - Análisis de los ERPs elegidos
    - Casos de uso
    - Tabla comparativa
-   - Conclusiones para GreenGym
-   - Fuentes y evidencias
+   - Conclusiones para el caso de GreenGym
+   - Fuentes
 
 
 
