@@ -18,6 +18,6 @@ Comparativa de ERP para GreenGym
 Estructura del repositorio
 
 comparativas_erp/
-├─ README.md  
-├─ comparativas_erp.md  
-└─ asset/
+- README.md  
+- comparativas_erp.md  
+- asset/
