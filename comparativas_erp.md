@@ -25,4 +25,4 @@ La Tabla se complica aquí y no pude ponerla
 
 
 La Tabla, el apoyo visual (7 capturas de pantalla sobre algunas de las webs consultadas), y los enlaces de las fuentes consultadas se encuentran aquí:  ![Recursos del .md](./asset/ERPs_fotos_fuentes_tabla.pdf)
-Las capturas son meramente orientativas, por ejemplo, ![esta captura](./asset/Captura_de_pantalla_4.pdf), es sobre la seguridad de Microsoft Dynamics 365 Business Central, cuyo enlace tambien se encuentra en el pdf
+Las capturas son meramente orientativas, tomadas despues de elaborar toda la recopilación. Por ejemplo, ![esta captura](./asset/Captura de pantalla 4.pdf), es sobre la seguridad de Microsoft Dynamics 365 Business Central, cuyo enlace tambien se encuentra en el pdf
